@@ -35,7 +35,7 @@ I am a UI Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 </div>
 
 <div id="Tavreli">
-  <a href="https://tavreli.com">
+  <a href="https://tavreligame.com/#rec721464268">
   <img src="https://img.shields.io/badge/Tavreli-black?style=for-the-badge&logo=GooglePlay&logoColor=white"/>
  </a>
  <p>"Tavreli" is a fully commercial product. My work involved creating the UI and writing code according to the MVP pattern.</p>
